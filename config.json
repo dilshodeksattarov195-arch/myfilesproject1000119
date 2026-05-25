@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyeecrypt",
+        "uuid": 923559,
+        "checksum": "6vbxh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
